@@ -5,10 +5,11 @@
   "name": "RealTime",
   "description": "RealTime addon for Meteor Client",
   "authors": [
-    "dejavecu (Nour)"
+    "dejavecu (Nour)",
+    "d2k11"
   ],
   "contact": {
-    "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "sources": "https://github.com/Beta-51/realtime-timechanger-meteor-addon/"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
@@ -21,7 +22,7 @@
     "addon-template.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25",
+    "meteor-client:color": "230,144,144",
     "modmenu": {
       "parent": {
         "id": "meteor-client"
